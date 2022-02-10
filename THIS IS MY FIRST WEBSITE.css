@@ -1,0 +1,49 @@
+body
+
+{width:100%;
+padding:20px;
+margine:20px;
+font-family: 'Big Shoulders Inline Text', cursive;
+}
+body 
+{
+background-image:url(IMG.JPG);
+background-size:cover;
+background-position:center;
+background-attachment:fixed;
+}
+#nav 
+{
+background-color:rgb(0;100;0);
+text-align:center
+}
+#nav ul
+{
+display:inline flex;
+list-type;none;
+text-transform:uppercase;
+
+}
+#nav ul li 
+{
+width:150px;
+margin:15px
+padding:30px
+
+}
+#nav ul li a 
+{
+text-decoration:none;
+color:
+
+}
+
+
+
+
+
+
+
+
+
+

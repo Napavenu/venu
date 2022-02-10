@@ -1,0 +1,17 @@
+body
+{
+width:100%;
+padding:20px;
+margine:20px;
+font-family: 'Big Shoulders Inline Text',;
+}
+
+body
+{
+background-image:url("img.jpg");
+background-size:cover;
+background-position:center;
+background-attachment:fixed;
+}
+
+
