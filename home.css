@@ -2,7 +2,7 @@ body
 {
 width:100%;
 padding:20px;
-margine:20px;
+margin:20px;
 font-family: 'Big Shoulders Inline Text',;
 }
 
@@ -13,5 +13,28 @@ background-size:cover;
 background-position:center;
 background-attachment:fixed;
 }
-
-
+row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin:100px;0px;
+}    
+col-1 h1{
+    flex-basis:40%;
+        position:relative;
+    margin-left:50px;
+}
+col-1 h2{
+    font-size:60px;
+}
+col-1 h3{
+    font-size:30px;
+    color:#707070;
+    font-weight:100;
+    margin:20px 0 10px;
+}
+col-1 p{
+     font-size:16px;
+     color:#b7b7b7;
+     font-weight:100;
+}
